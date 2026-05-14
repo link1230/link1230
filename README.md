@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="godotengine.svg" width="80" alt="logo" />
-
 # 你好，我是 Link 👋
 
 <p>
