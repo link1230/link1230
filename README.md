@@ -28,25 +28,20 @@
 
 ### 🛠️ 技术栈
 
-<table align="center" style="border:none;border-collapse:collapse;">
-  <tr>
-    <td align="center" style="border:none;"><img src="icon/file_type_godot.svg" width="48" height="48" /><br /><b>Godot</b></td>
-    <td align="center" style="border:none;"><img src="icon/Blender.svg" width="48" height="48" /><br /><b>Blender</b></td>
-    <td align="center" style="border:none;"><img src="icon/Photoshop.svg" width="48" height="48" /><br /><b>Photoshop</b></td>
-    <td align="center" style="border:none;"><img src="icon/Illustrator.svg" width="48" height="48" /><br /><b>Illustrator</b></td>
-    <td align="center" style="border:none;"><img src="icon/Premiere%20Pro.svg" width="48" height="48" /><br /><b>Premiere Pro</b></td>
-    <td align="center" style="border:none;"><img src="icon/Audition.svg" width="48" height="48" /><br /><b>Audition</b></td>
-    <td align="center" style="border:none;"><img src="icon/adobe_lightroom.svg" width="48" height="48" /><br /><b>Lightroom</b></td>
-    <td align="center" style="border:none;"><img src="icon/Figma.svg" width="48" height="48" /><br /><b>Figma</b></td>
-  </tr>
-  <tr>
-    <td align="center" style="border:none;" colspan="3"></td>
-    <td align="center" style="border:none;"><img src="icon/git.svg" width="48" height="48" /><br /><b>Git</b></td>
-    <td align="center" style="border:none;"><img src="icon/Axure.svg" width="48" height="48" /><br /><b>Axure</b></td>
-    <td align="center" style="border:none;"><img src="icon/xmind.svg" width="48" height="48" /><br /><b>XMind</b></td>
-    <td align="center" style="border:none;" colspan="2"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="icon/file_type_godot.svg" width="48" height="48" />&nbsp;&nbsp;
+  <img src="icon/Blender.svg" width="48" height="48" />&nbsp;&nbsp;
+  <img src="icon/Photoshop.svg" width="48" height="48" />&nbsp;&nbsp;
+  <img src="icon/Illustrator.svg" width="48" height="48" />&nbsp;&nbsp;
+  <img src="icon/Premiere%20Pro.svg" width="48" height="48" />&nbsp;&nbsp;
+  <img src="icon/Audition.svg" width="48" height="48" />&nbsp;&nbsp;
+  <img src="icon/adobe_lightroom.svg" width="48" height="48" />&nbsp;&nbsp;
+  <img src="icon/Figma.svg" width="48" height="48" />
+  <br /><br />
+  <img src="icon/git.svg" width="48" height="48" />&nbsp;&nbsp;
+  <img src="icon/Axure.svg" width="48" height="48" />&nbsp;&nbsp;
+  <img src="icon/xmind.svg" width="48" height="48" />
+</p>
 
 ---
 
