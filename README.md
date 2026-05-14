@@ -2,31 +2,31 @@
 
 <img src="godotengine.svg" width="80" alt="logo" />
 
-# Hi there, I'm Link 👋
+# 你好，我是 Link 👋
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Game+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=游戏开发者;开源爱好者;终身学习者" alt="Typing SVG" />
 </p>
 
 <p>
-  <a href="https://github.com/link1230"><img src="https://img.shields.io/github/followers/link1230?label=Follow&style=social" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=link1230&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/link1230"><img src="https://img.shields.io/github/followers/link1230?label=关注&style=social" alt="GitHub followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=link1230&label=主页访问&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 关于我
 
-- 🔭 I'm currently working on **game development projects**
-- 🌱 I'm currently learning **Godot Engine & Game Design**
-- 👯 I'm looking to collaborate on **open-source game projects**
-- 💬 Ask me about **Godot, game mechanics, or anything tech**
-- 📫 Reach me at: **link1230@outlook.com**
-- ⚡ Fun fact: **Turning ideas into playable worlds**
+- 🔭 目前专注于 **游戏开发项目**
+- 🌱 正在学习 **Godot 引擎 & 游戏设计**
+- 👯 期待合作 **开源游戏项目**
+- 💬 欢迎交流 **Godot、游戏机制或技术话题**
+- 📫 联系方式：**link1230@outlook.com**
+- ⚡ 小趣味：**把创意变成可玩的世界**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ 技术栈
 
 <p>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
@@ -41,20 +41,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub 统计
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=link1230&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=link1230&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=link1230&layout=compact&theme=tokyonight&hide_border=true" alt="常用语言" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=link1230&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=link1230&theme=tokyonight&hide_border=true" alt="连续贡献" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub 奖杯
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=link1230&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies" />
@@ -62,11 +62,11 @@
 
 ---
 
-### 🎮 Featured Projects
+### 🎮 精选项目
 
 <p>
   <a href="https://github.com/link1230">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=link1230&repo=link1230&theme=tokyonight&hide_border=true" alt="Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=link1230&repo=link1230&theme=tokyonight&hide_border=true" alt="仓库卡片" />
   </a>
 </p>
 
@@ -75,13 +75,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/link1230/link1230/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/link1230/link1230/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/link1230/link1230/output/github-contribution-grid-snake.svg" />
+  <img alt="贪吃蛇动画" src="https://raw.githubusercontent.com/link1230/link1230/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
 <p align="center">
-  <i>Let's build something awesome together! 🚀</i>
+  <i>一起创造精彩！🚀</i>
 </p>
 
 </div>
