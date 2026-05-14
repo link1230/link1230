@@ -50,9 +50,13 @@
 
 ### 🎮 精选项目
 
+<p align="center">
+  <img src="img/farm.png" width="600" alt="Study-Project-Farming" />
+</p>
+
 <p>
-  <a href="https://github.com/link1230">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=link1230&repo=link1230&theme=tokyonight&hide_border=true" alt="仓库卡片" />
+  <a href="https://github.com/link1230/Study-Project-Farming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=link1230&repo=Study-Project-Farming&theme=tokyonight&hide_border=true" alt="仓库卡片" />
   </a>
 </p>
 
