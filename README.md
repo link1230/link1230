@@ -28,16 +28,26 @@
 
 ### 🛠️ 技术栈
 
-<p>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="icon/file_type_godot.svg" width="48" height="48" /><br /><b>Godot</b></td>
+    <td align="center"><img src="icon/Blender.svg" width="48" height="48" /><br /><b>Blender</b></td>
+    <td align="center"><img src="icon/Photoshop.svg" width="48" height="48" /><br /><b>Photoshop</b></td>
+    <td align="center"><img src="icon/Illustrator.svg" width="48" height="48" /><br /><b>Illustrator</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="icon/Premiere%20Pro.svg" width="48" height="48" /><br /><b>Premiere Pro</b></td>
+    <td align="center"><img src="icon/Audition.svg" width="48" height="48" /><br /><b>Audition</b></td>
+    <td align="center"><img src="icon/adobe_lightroom.svg" width="48" height="48" /><br /><b>Lightroom</b></td>
+    <td align="center"><img src="icon/Figma.svg" width="48" height="48" /><br /><b>Figma</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="icon/git.svg" width="48" height="48" /><br /><b>Git</b></td>
+    <td align="center"><img src="icon/Axure.svg" width="48" height="48" /><br /><b>Axure</b></td>
+    <td align="center"><img src="icon/xmind.svg" width="48" height="48" /><br /><b>XMind</b></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
