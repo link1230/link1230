@@ -34,8 +34,6 @@
     <td align="center"><img src="icon/Blender.svg" width="48" height="48" /><br /><b>Blender</b></td>
     <td align="center"><img src="icon/Photoshop.svg" width="48" height="48" /><br /><b>Photoshop</b></td>
     <td align="center"><img src="icon/Illustrator.svg" width="48" height="48" /><br /><b>Illustrator</b></td>
-  </tr>
-  <tr>
     <td align="center"><img src="icon/Premiere%20Pro.svg" width="48" height="48" /><br /><b>Premiere Pro</b></td>
     <td align="center"><img src="icon/Audition.svg" width="48" height="48" /><br /><b>Audition</b></td>
     <td align="center"><img src="icon/adobe_lightroom.svg" width="48" height="48" /><br /><b>Lightroom</b></td>
@@ -45,7 +43,7 @@
     <td align="center"><img src="icon/git.svg" width="48" height="48" /><br /><b>Git</b></td>
     <td align="center"><img src="icon/Axure.svg" width="48" height="48" /><br /><b>Axure</b></td>
     <td align="center"><img src="icon/xmind.svg" width="48" height="48" /><br /><b>XMind</b></td>
-    <td></td>
+    <td></td><td></td><td></td><td></td><td></td>
   </tr>
 </table>
 
