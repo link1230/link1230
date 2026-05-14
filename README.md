@@ -51,7 +51,9 @@
 ### 🎮 精选项目
 
 <p align="center">
-  <img src="img/farm.png" width="600" alt="Study-Project-Farming" />
+  <a href="https://github.com/link1230/Study-Project-Farming">
+    <img src="img/farm.png" width="600" alt="Study-Project-Farming" />
+  </a>
 </p>
 
 <p>
