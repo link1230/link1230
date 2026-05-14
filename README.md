@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ 技术栈
+### 🛠️ 软件技能
 
 <p align="center">
   <img src="icon/file_type_godot.svg" width="48" height="48" />&nbsp;&nbsp;
