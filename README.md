@@ -55,8 +55,9 @@
 </p>
 
 <p>
+  <img src="icon/农场.svg" width="24" height="24" align="center" />
   <a href="https://github.com/link1230/Study-Project-Farming">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=link1230&repo=Study-Project-Farming&theme=tokyonight&hide_border=true" alt="仓库卡片" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=link1230&repo=Study-Project-Farming&theme=tokyonight&hide_border=true" alt="农场游戏" />
   </a>
 </p>
 
