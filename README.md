@@ -1,14 +1,5 @@
 # 你好，我是 Link 👋
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=游戏开发者;开源爱好者;终身学习者" alt="Typing SVG" />
-</p>
-
-<p>
-  <a href="https://github.com/link1230"><img src="https://img.shields.io/github/followers/link1230?label=关注&style=social" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=link1230&label=主页访问&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ### 🧑‍💻 关于我
