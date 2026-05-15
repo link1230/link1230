@@ -41,6 +41,14 @@
 
 ---
 
+### 📊 常用语言
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=link1230&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
 ### 🎮 精选项目
 
 <p align="center">
