@@ -35,7 +35,7 @@
 
 ### 🏆 GitHub 奖杯
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=link1230&theme=tokyonight&no-frame=true&column=10&margin-w=5" alt="Trophies" />
 </p>
 
