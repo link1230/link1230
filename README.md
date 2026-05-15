@@ -34,10 +34,9 @@
 
 ### 📊 GitHub 统计
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=link1230&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="动态生成统计" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=link1230&layout=compact&theme=tokyonight&hide_border=true" alt="常用语言" />
-</p>
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</div>
 
 ---
 
