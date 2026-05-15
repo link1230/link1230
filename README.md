@@ -35,7 +35,7 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=link1230&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;line_height=21&amp;text_color=000&amp;icon_color=000&amp;bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&amp;theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=link1230&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;theme=graywhite" />
 </div>
 
 ---
