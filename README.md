@@ -35,7 +35,9 @@
 ### 📊 GitHub 统计
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=link1230&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;theme=graywhite" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=link1230&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;theme=graywhite" alt="Link 的 GitHub 统计" />
+  </a>
 </div>
 
 ---
