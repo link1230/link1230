@@ -33,12 +33,6 @@
 
 ---
 
-### 📊 GitHub 统计
-<div align="center">
-  <img src="https://github-readme-stats-ruby.vercel.app/api?username=link1230&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;" />
-  <img src="https://github-readme-stats-ruby.vercel.app/api/top-langs/?username=link1230&layout=compact&theme=radical" alt="常用语言" style="width: 48%;" />
-</div>
----
 
 ### 🏆 GitHub 奖杯
 
