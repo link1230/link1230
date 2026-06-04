@@ -45,6 +45,17 @@
 
 ---
 
+### 🏆 GitHub 成就
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📅_Member_Since-Sep_2025-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📂_Public_Repos-4-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/⭐_Total_Stars-2-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔀_Total_Forks-0-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
 ### 🎮 精选项目
 
 <p align="center">
