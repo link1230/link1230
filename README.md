@@ -36,9 +36,9 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/link1230?style=for-the-badge&logo=github&label=Followers&color=1a1b27&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/link1230?style=for-the-badge&logo=github&label=Stars&color=1a1b27&logoColor=white" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/link1230&color=1a1b27&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/link1230?style=plastic&logo=github&label=Followers&color=1a1b27&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/link1230?style=plastic&logo=github&label=Stars&color=1a1b27&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=plastic&logo=github&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/link1230&color=1a1b27&logoColor=white" />
 </p>
 
 
@@ -48,10 +48,10 @@
 ### 🏆 GitHub 成就
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📅_Member_Since-Sep_2025-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/📂_Public_Repos-4-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/⭐_Total_Stars-2-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/🔀_Total_Forks-0-1a1b27?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📅_Member_Since-Sep_2025-1a1b27?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/📂_Public_Repos-4-1a1b27?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/⭐_Total_Stars-2-1a1b27?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔀_Total_Forks-0-1a1b27?style=plastic&logo=github&logoColor=white" />
 </p>
 
 ---
