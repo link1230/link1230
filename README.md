@@ -36,10 +36,12 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=link1230&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=link1230&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/link1230?style=for-the-badge&logo=github&label=Followers&color=1a1b27&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/link1230?style=for-the-badge&logo=github&label=Stars&color=1a1b27&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/link1230&color=1a1b27&logoColor=white" />
 </p>
+
+
 
 ---
 
