@@ -36,12 +36,10 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=link1230&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=link1230&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs?username=link1230&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=link1230&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-> ⚠️ 部署完成后，请将上方 `YOUR_VERCEL_DOMAIN` 替换为你实际的 Vercel 域名
 
 ---
 
