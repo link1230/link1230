@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rito-w&theme=react-dark&hide_border=true&bg_color=0D1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=link1230&theme=react-dark&hide_border=true&bg_color=0D1117)
 
 </div>
 ---
@@ -69,9 +69,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rito-w&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=link1230&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rito-w&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=link1230&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
