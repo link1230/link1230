@@ -44,6 +44,15 @@
 
 
 ---
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rito-w&theme=react-dark&hide_border=true&bg_color=0D1117)
+
+</div>
+---
+
 
 ### 🏆 GitHub 成就
 
