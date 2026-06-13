@@ -44,15 +44,16 @@
 
 
 ---
-## 📈 Activity Graph
+
+## 📈 活动图
 
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=link1230&theme=react-dark&hide_border=true&bg_color=0D1117)
 
 </div>
----
 
+---
 
 ### 🏆 GitHub 成就
 
@@ -74,7 +75,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=link1230&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
-
 
 ---
 ### 🎮 精选项目
